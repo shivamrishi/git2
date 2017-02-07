@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\KIPP\Documents\d\arm\sensor_interface\uart.uvproj
+Project File Date:  12/31/2016
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+User command #1: fromelf --bin  uart.axf --output uart.bin
+--- Error: User Command terminated, Exit-Code = 1
+Target not created
+Rebuild target 'Target 1'
+User command #1: fromelf --bin  analog.axf --output analog.bin
+--- Error: User Command terminated, Exit-Code = 1
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling uart.c...
+linking...
+Program Size: Code=1068 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+User command #1: fromelf --bin  analog.axf --output analog.bin
+assembling Startup.s...
+compiling uart.c...
+linking...
+Program Size: Code=1068 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+User command #1: fromelf --bin  uart.axf --output uart.bin
+assembling Startup.s...
+compiling uart.c...
+linking...
+Program Size: Code=1068 RO-data=32 RW-data=36 ZI-data=1260  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 0 Warning(s).

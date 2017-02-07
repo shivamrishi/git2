@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\KIPP\Documents\d\arm\sensor_interface\analog.uvproj
+Project File Date:  12/24/2016
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+User command #1: fromelf --bin  analog.axf --output analog.bin
+--- Error: User Command terminated, Exit-Code = 1
+Target not created
+Rebuild target 'Target 1'
+User command #1: fromelf --bin  analog.axf --output analog.bin
+--- Error: User Command terminated, Exit-Code = 1
+Target not created
+Rebuild target 'Target 1'
+User command #1: fromelf --bin  analog.axf --output analog.bin
+--- Error: User Command terminated, Exit-Code = 1
+Target not created
+Rebuild target 'Target 1'
+User command #1: fromelf --bin  analog.axf --output analog.bin
+--- Error: User Command terminated, Exit-Code = 1
+Target not created

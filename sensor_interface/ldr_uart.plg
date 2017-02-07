@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\KIPP\Documents\d\arm\sensor_interface\ldr_uart.uvproj
+Project File Date:  12/31/2016
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+User command #1: fromelf --bin  ldr_uart.axf --output ldr_uart.bin
+--- Error: User Command terminated, Exit-Code = 1
+Target not created
+"LPC210x_ISP.EXE" "C:\Users\KIPP\Documents\d\arm\sensor_interface\ldr_uart.HEX" 12000 LPC2148 COM1: 38400 1
+--- Error: failed to execute '"LPC210x_ISP.EXE" "C:\Users\KIPP\Documents\d\arm\sensor_interface\ldr_uart.HEX" 12000 LPC2148 COM1: 38400 1'

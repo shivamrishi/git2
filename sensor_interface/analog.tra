@@ -1,0 +1,21 @@
+*** Creating Trace Output File 'analog.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"main.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "main.o" 
+--strict --scatter "analog.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\analog.map" -o analog.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'analog.axf'
+### ADS-LD Command File: 'analog.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'analog.lnp', Handle=0x00000574
+### Writing '.lnp' file
+### ADS-LD Command file 'analog.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

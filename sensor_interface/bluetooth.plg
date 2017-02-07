@@ -1,0 +1,449 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\KIPP\Documents\d\arm\sensor_interface\bluetooth.uvproj
+Project File Date:  02/04/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+--- Error: User Command terminated, Exit-Code = 1
+Target not created
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+--- Error: User Command terminated, Exit-Code = 1
+Target not created
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+--- Error: User Command terminated, Exit-Code = 1
+Target not created
+Build target 'Target 1'
+compiling uart.c...
+uart.c(62): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1064 RO-data=32 RW-data=4 ZI-data=1260  
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(62): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1068 RO-data=32 RW-data=4 ZI-data=1260  
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(62): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1068 RO-data=32 RW-data=4 ZI-data=1260  
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(62): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1068 RO-data=32 RW-data=4 ZI-data=1260  
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(62): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1068 RO-data=32 RW-data=4 ZI-data=1260  
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(62): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1068 RO-data=32 RW-data=4 ZI-data=1260  
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(62): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1056 RO-data=32 RW-data=4 ZI-data=1260  
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1056 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(9): warning:  #177-D: variable "i" was declared but never referenced
+uart.c(62): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1028 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1028 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1028 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(62): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1060 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(63): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1064 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(63): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1072 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1072 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1072 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1072 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(63): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1072 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1072 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(63): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1072 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1072 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1072 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(63): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1068 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1068 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(10): error:  #20: identifier "arr" is undefined
+uart.c(10): error:  #29: expected an expression
+uart.c(68): warning:  #1-D: last line of file ends without a newline
+uart.c - 2 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(68): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1152 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1152 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1152 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1152 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1152 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(70): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1180 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1180 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(74): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1216 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+compiling uart.c...
+uart.c(74): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1216 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(69): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1208 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1208 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(70): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1160 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+compiling uart.c...
+uart.c(70): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1160 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(70): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1204 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(69): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1208 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1208 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(10): warning:  #177-D: variable "arr" was declared but never referenced
+uart.c(65): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1160 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1160 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1160 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(10): warning:  #177-D: variable "arr" was declared but never referenced
+uart.c(65): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1160 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(10): warning:  #177-D: variable "arr" was declared but never referenced
+uart.c(65): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1160 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1160 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(10): warning:  #177-D: variable "arr" was declared but never referenced
+uart.c(65): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1184 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1184 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(10): warning:  #177-D: variable "arr" was declared but never referenced
+uart.c(65): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1184 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1184 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(10): warning:  #177-D: variable "arr" was declared but never referenced
+uart.c(65): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1184 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1184 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+compiling uart.c...
+uart.c(10): warning:  #177-D: variable "arr" was declared but never referenced
+uart.c(65): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1164 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 2 Warning(s).
+compiling uart.c...
+uart.c(10): warning:  #177-D: variable "arr" was declared but never referenced
+uart.c(65): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1164 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(10): warning:  #177-D: variable "arr" was declared but never referenced
+uart.c(65): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1164 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(10): warning:  #177-D: variable "arr" was declared but never referenced
+uart.c(65): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1164 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1164 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(10): warning:  #177-D: variable "arr" was declared but never referenced
+uart.c(65): warning:  #1-D: last line of file ends without a newline
+uart.c - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+User command #1: fromelf --bin  bluetooth.axf  --output bluetooth.bin
+linking...
+Program Size: Code=1164 RO-data=32 RW-data=4 ZI-data=1260  
+"bluetooth.axf" - 0 Error(s), 0 Warning(s).
+compiling uart.c...
+uart.c(2): error:  #5: cannot open source input file "vector.h": No such file or directory
+uart.c - 1 Error(s), 0 Warning(s).
+compiling uart.c...
+C:\Keil\ARM\ARMCC\bin\..\include\rw/_defs.h(781): error:  #20: identifier "namespace" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\rw/_defs.h(781): error:  #65: expected a ";"
+C:\Keil\ARM\ARMCC\bin\..\include\limits(265): error:  #20: identifier "namespace" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(265): error:  #65: expected a ";"
+C:\Keil\ARM\ARMCC\bin\..\include\limits(294): error:  #20: identifier "_TypeT" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(295): error:  #20: identifier "_TypeT" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(300): error:  #20: identifier "bool" is undefined
+error type>(300): error:  #20: identifier "false" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(301): error:  #20: identifier "bool" is undefined
+error type>(302): error:  #20: identifier "bool" is undefined
+error type>(306): error:  #20: identifier "_TypeT" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(307): error:  #20: identifier "_TypeT" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(314): error:  #20: identifier "bool" is undefined
+error type>(315): error:  #20: identifier "bool" is undefined
+error type>(316): error:  #20: identifier "bool" is undefined
+error type>(317): error:  #20: identifier "float_denorm_style" is undefined
+error type>(317): error:  #20: identifier "denorm_absent" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(318): error:  #20: identifier "bool" is undefined
+error type>(320): error:  #20: identifier "_TypeT" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(321): error:  #20: identifier "_TypeT" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(322): error:  #20: identifier "_TypeT" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(323): error:  #20: identifier "_TypeT" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(325): error:  #20: identifier "bool" is undefined
+error type>(326): error:  #20: identifier "bool" is undefined
+error type>(327): error:  #20: identifier "bool" is undefined
+error type>(328): error:  #20: identifier "bool" is undefined
+error type>(329): error:  #20: identifier "bool" is undefined
+error type>(330): error:  #20: identifier "float_round_style" is undefined
+error type>(330): error:  #20: identifier "round_toward_zero" is undefined
+C:\Keil\ARM\ARMCC\bin\..\include\limits(331): error:  #169: expected a declaration
+uart.c - 30 Error(s), 0 Warning(s).
+compiling uart.cpp...
+uart.cpp(11): warning:  #177-D: variable "arr" was declared but never referenced
+uart.cpp(66): warning:  #1-D: last line of file ends without a newline
+uart.cpp - 0 Error(s), 2 Warning(s).
