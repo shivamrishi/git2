@@ -1,0 +1,5 @@
+--cpu ARM7TDMI "startup.o" "text1.o" 
+--strict --scatter "7seg_multiplexing.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\7seg_multiplexing.map" -o 7seg_multiplexing.axf
